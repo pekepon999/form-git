@@ -1,10 +1,13 @@
 button {
   margin-left: 12px;
-  background-color: gray;
+  background-color: rgb(230, 227, 227);
   width: 170px;
   height: 40px;
 }
 button:hover{
   opacity: 0.6;
   cursor: pointer;
+}
+.shadwo{
+  pointer-events: none;
 }
