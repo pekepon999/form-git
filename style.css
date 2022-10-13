@@ -1,0 +1,10 @@
+button {
+  margin-left: 12px;
+  background-color: gray;
+  width: 170px;
+  height: 40px;
+}
+button:hover{
+  opacity: 0.6;
+  cursor: pointer;
+}
